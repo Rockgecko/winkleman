@@ -1,4 +1,4 @@
-# Winkelman: A home made claude chat app
+# Winkleman: A home made claude chat app
 
 A standalone chat app that uses Claude models via the Anthropic API.
 
