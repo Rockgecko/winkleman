@@ -11,8 +11,7 @@ uv run streamlit run app.py
 
 TODO:
 
-- [ ] add to github
 - [x] add extended thinking option & downloads (see email)
 - [ ] consider adding search tool
-- [ ] look into whether it's possible to display my available funds
+- [ ] look into whether it's possible to display remaining credit
 - [ ] also conversation tokens/cost
